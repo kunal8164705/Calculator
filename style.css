@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+#heading{
+    text-align: center;
+
+    font-size: 3rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:darkcyan;
+    padding: 40px;
+}
+
+.border{
+    border: 1pt solid;
+
+    border-color: black;
+    background-color:darkgrey;
+}
+
+
+#outer{
+   background-color:rgb(42, 75, 75);
+    height:470px;
+    width: 430px;
+    margin :auto;
+    padding: 20px;
+    border-radius: 25px;    
+}
+
+#display{
+    text-align: right;
+    margin:16pt;
+    width:auto;
+    height:10%;
+    font-size: 2rem;
+    padding: 2px;
+    background-color: whitesmoke;
+}
+
+
+.btn{
+    background-color: whitesmoke;
+    width:54px;
+    display:inline-block;
+    padding:20px;
+    margin:3px;
+    font-size: 1.5rem;
+    font-family: sans-serif ;
+    border-radius: 7px;
+    text-align: center;
+}
+
+.red{
+    background-color: red;
+}
+
+.zerobtn{
+    width: 160px;
+}
